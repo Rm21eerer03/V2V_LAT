@@ -25,10 +25,10 @@ V2V chargers by eliminating the requirement for motor winding and inverter circu
 V. The simulation studies are validated through the OPAL-RT® Real-Time simulator. The proposed charger achieves an efficiency of 96.57 % in the forward boost mode, 96.56 % in the reverse
 buck mode, and 96.26 % in the forward buck–boost mode of operation at a rated power level of 20 kW, while demonstrating a 25% to 76 % reduction in component count compared to existing topologies. Further, a laboratory proof of concept is
 developed and tested with battery voltages of 12 V and 25.6 V in all modes of operation. Experimental results under static and dynamic discharge currents are presented.
-
+# Description of Files:
+The uploaded files include MATLAB scripts used to generate the analytical and simulation results presented in the manuscript. Block diagram files corresponding to the developed models are provided to illustrate the system architecture and control implementation. In addition, simulation output images, hardware images , and OPAL-RT files obtained during experimental validation are included. These materials were used for manuscript preparation and facilitate a clear understanding, reproducibility, and verification of the reported results.
 # Software Requirements: 
-1. MATLAB R2020b or later.
-   
+1. MATLAB R2020b or later. 
 # Simulation file Design Specifications: 
 Simulation parameter Details : Battery-1 Capacity (Eb1) 40 kWh,
 Battery-2 Capacity (Eb2) 100 kWh,
@@ -43,8 +43,7 @@ DC-link Capacitor (Ck) 1000 uF,
 Battery internal parameters are also considered as functions of the state-of-charge (SOC) variation to analyze open-loop stability. Based on this analysis, a PI controller is designed, and the corresponding Bode plots are ploted to assess the closed-loop system stability.
 
 # For Simulation Results Validation:
-Open "MATLAB R2020b or later" version and Run
-
+Open "MATLAB R2020b or later" version and Run to observe the results.
 # Contact:
 For questions or replication of results: 
 rm21eerer03@student.nitw.ac.in
