@@ -46,5 +46,5 @@ Battery internal parameters are also considered as functions of the state-of-cha
 Open "MATLAB R2020b or later" version and Run to observe the results.
 # Contact:
 For questions or replication of results: 
-rm21eerer03@student.nitw.ac.in
-spradabane@nitw.ac.in
+rm21eerer03@student.nitw.ac.in ,
+spradabane@nitw.ac.in .
