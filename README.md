@@ -3,7 +3,18 @@
 
 # TITLE: A Capacitor Coupled On-board Bi-directional Vehicle-to-Vehicle Charging System
 # Authors: 
-Mounika Reddimalla, Srinivasan Pradabane, IEEE member
+Mounika Reddimalla,
+Research Scholar,
+Department of Electrical Engineering,
+National Institute of Technology, Warangal,
+E-mail: rm21eerer03@student.nitw.ac.in .
+
+Prof. Srinivasan Pradabane, IEEE member
+Assistant Professor,
+Department of Electrical Engineering,
+National Institute of Technology, Warangal,
+E-mail: spradabane@nitw.ac.in .
+
 # About Repository:
 This repository contains the MATLAB files and latex documents used for our paper titled "A Capacitor Coupled On-board Bi-directional Vehicle-to-Vehicle Charging System".
 
@@ -37,3 +48,4 @@ Open "MATLAB R2020b or later" version and Run
 # Contact:
 For questions or replication of results: 
 rm21eerer03@student.nitw.ac.in
+spradabane@nitw.ac.in
