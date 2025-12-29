@@ -9,7 +9,7 @@ Department of Electrical Engineering,
 National Institute of Technology, Warangal,
 E-mail: rm21eerer03@student.nitw.ac.in .
 
-Prof. Srinivasan Pradabane, IEEE member
+Prof. Srinivasan Pradabane, IEEE member,
 Assistant Professor,
 Department of Electrical Engineering,
 National Institute of Technology, Warangal,
