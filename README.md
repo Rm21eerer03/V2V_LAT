@@ -43,7 +43,15 @@ DC-link Capacitor (Ck) 1000 uF,
 Battery internal parameters are also considered as functions of the state-of-charge (SOC) variation to analyze open-loop stability. Based on this analysis, a PI controller is designed, and the corresponding Bode plots are ploted to assess the closed-loop system stability.
 
 # For Simulation Results Validation:
-Open "MATLAB R2020b or later" version and Run to observe the results.
+Open "MATLAB R2020b or later" version and Run.
+The simulation and analysis results presented in the manuscript are obtained as follows:
+
+1) The Simulink model is executed and the system responses are observed from Scopes 1 and 3. These recorded waveforms are used to generate Figs. 10, 11, and 12, corresponding to the converter operation in forward boost, reverse buck, and forward buck–boost modes, respectively.
+
+2) The MATLAB script files are executed to perform the stability analysis of the system. From these scripts, the frequency-domain characteristics are obtained, and the resulting Bode plots are presented in Fig. 9.
+
+3) Further OPAL-RT experimentation iscarried out using the Simulink model, and the responses captured from the relevant scopes are used to generate Figs. 21, 22, and 23, illustrating the dynamic performance of the proposed system under different operating conditions.
+   
 # Contact:
 For questions or replication of results: 
 rm21eerer03@student.nitw.ac.in ,
